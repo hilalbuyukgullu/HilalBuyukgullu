@@ -1,5 +1,11 @@
-## <div align="center"> Hi I'm Hilal 👋</div>
-<div align="center"> Junior Frontend Developer</div>
+## <div align="center">Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  Hi I'm Hilal 👋</div>
+<div align="left"> 
+ I am currently developing projects with React and TypeScript. Here I share my own projects and projects that I like. <br/>
+    <a href="mailto:hilal.buyukgullu@gmail.com">📫</a>
+    Do they have an issue or a question?
+    <br/><br/>
+    <p align="center"> Happy Coding! 😊</p>
+</div>
 
 ### Connect with me:
 <div align="center">
@@ -8,8 +14,7 @@
     </a>
 </div>
 <br />
-<br />
- <br/>
+
 
 ### 🛠️ Languages and Tools:
   <p align="left">
@@ -25,12 +30,12 @@
  <br/>
 
 <details>
-<summary>⚡ Github Stats</summary>
+<summary>💹 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=hilalbuyukgullu&show_icons=true&theme=dracula">
 </details>
 
 <details>
-<summary>⚡ My Top Langs</summary>
+<summary>👨‍💻 My Top Langs</summary>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalbuyukgullu&layout=compact&hide=html,css&&show_icons=true&theme=dracula" alt="My Top Langs" />
 </details>
 
