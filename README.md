@@ -3,7 +3,9 @@
 
 ### Connect with me:
 <div align="center">
+    <a href="https://www.linkedin.com/in/hilal-b%C3%BCy%C3%BCkg%C3%BCll%C3%BC-11508b198/">
     <img align="left" alt="hilalbuyukgullu" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    </a>
 </div>
 <br />
 <br />
