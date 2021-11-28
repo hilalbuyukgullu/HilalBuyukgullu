@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/hilal-b%C3%BCy%C3%BCkg%C3%BCll%C3%BC-11508b198/" target="_blank">
+    <a href="https://www.linkedin.com/in/hilal-buyukgullu/" target="_blank">
     <img align="left" alt="hilalbuyukgullu" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
     </a>
 </div>
@@ -39,23 +39,5 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalbuyukgullu&layout=compact&hide=html,css&&show_icons=true&theme=dracula" alt="My Top Langs" />
 </details>
 
-
-    
-
-<!--
-**hilalbuyukgullu/HilalBuyukgullu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
--->
 
 
