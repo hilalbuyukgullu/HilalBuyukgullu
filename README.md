@@ -1,10 +1,10 @@
-## <div align="center">Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  Hi I'm Hilal 👋</div>
-<div align="left"> 
+## <div align="center">Hi there welcome to my Github! Hi I'm Hilal 👋</div>
+<div align="center">
  I am currently developing projects with React and TypeScript. Here I share my own projects and projects that I like. <br/>
-    <a href="mailto:hilal.buyukgullu@gmail.com">📫</a>
-    Do they have an issue or a question?
     <br/><br/>
-    <p align="center"> Happy Coding! 😊</p>
+ <p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 </div>
 
 ### Connect with me:
@@ -28,7 +28,7 @@
       <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="javascript" width="40" height="40"/> </a>
    </p>
  <br/>
-
+<!-- 
 <details>
 <summary>💹 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=hilalbuyukgullu&show_icons=true&theme=dracula">
@@ -37,7 +37,7 @@
 <details>
 <summary>👨‍💻 My Top Langs</summary>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalbuyukgullu&layout=compact&hide=html,css&&show_icons=true&theme=dracula" alt="My Top Langs" />
-</details>
+</details> -->
 
 
 
